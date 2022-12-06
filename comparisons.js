@@ -117,4 +117,6 @@ console.log("Does dog love to play or love the dog park?", lovesToPlay || lovesD
 // Determine if the dog loves to play and is a puppy
 console.log("Does dog love to play and is a puppy?", lovesToPlay && puppy);
 // What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER: "Puppy is not defined". We have a variable established that the dog's age is 1, but we have nothing dictating what the boundaries of "puppydom" are. ...Unless I'm completely misreading what we are supposed to do with this prompt.
+// ANSWER: "Puppy is not defined". We have a variable established that the dog's age is 1, 
+// but we have nothing dictating what the boundaries of "puppydom" are. ...Unless I'm 
+// completely misreading what we are supposed to do with this prompt.
