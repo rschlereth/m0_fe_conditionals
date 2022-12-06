@@ -58,13 +58,13 @@ console.log("Is numberStudents less than or equal to 21?", numberStudents <= 21)
 // Be as technically precise as possible, but don't just copy and paste a definition from the readings.
 // Make sure YOU can explain it that way!
 
-console.log(4 < 9);
-"Is 4 less than 9?"
+console.log("Is 4 less than 9?", 4 < 9);
 // this should log: true
 // YOU DO: Explain.
 
 var books = 3;
-console.log(4 < books);
+console.log("Is 4 less than books?", 4 < books);
+// this should log: false
 // YOU DO: Explain.
 
 var friends = 6;
