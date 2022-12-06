@@ -106,10 +106,12 @@ console.log("Does dog love to play and love treats?", lovesToPlay && lovesTreats
 // this should log true
 
 // Determine if the dog loves to play and loves the dog park
-console.log("Does dog love to play and love dog park?", lovesToPlay && lovesDogPark)
+console.log("Does dog love to play and love dog park?", lovesToPlay && lovesDogPark);
 // this should log false
 
 // Determine if the dog loves to play or loves the dog park
+console.log("Does dog love to play or love the dog park?", lovesToPlay || lovesDogPark);
+// this should log true
 
 
 // Determine if the dog loves to play and is a puppy
