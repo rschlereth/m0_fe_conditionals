@@ -89,9 +89,11 @@ var finishedHomework = false;
 
 // EXAMPLE:
 // Determine if the user is hungry and has completed their homework
-console.log(isHungry && finishedHomework);
+console.log("Is user hungry and completed their homework?", isHungry && finishedHomework);
+// this should log: false
 // Determine if the user is hungry or has completed their homework
-console.log(isHungry || finishedHomework);
+console.log("Is user hungry or has completed their homework?", isHungry || finishedHomework);
+// this shuold log: true
 
 var lovesToPlay = true;
 var lovesDogPark = false;
