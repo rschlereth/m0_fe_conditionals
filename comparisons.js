@@ -75,7 +75,8 @@ console.log("Is friends greater than siblings?", friends > siblings);
 
 var attendees = 9;
 var meals = 8;
-console.log(attendees !== meals);
+console.log("Is attendees strictly not equal to meals?", attendees !== meals);
+// this should log: true
 // YOU DO: Explain.
 
 
