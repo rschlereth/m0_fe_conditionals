@@ -69,7 +69,8 @@ console.log("Is 4 less than books?", 4 < books);
 
 var friends = 6;
 var siblings = 2;
-console.log(friends > siblings);
+console.log("Is friends greater than siblings?", friends > siblings);
+// this should log: true
 // YOU DO: Explain.
 
 var attendees = 9;
